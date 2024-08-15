@@ -1,2 +1,3 @@
 # odin-recipes
 odin-recipes
+I have learned to create a simple recipe website using HTML. I set up a GitHub repository, practiced creating multiple pages like an index and individual recipe pages, and linked them together. I also added key content such as images, descriptions, ingredients, and steps for each recipe. During this process, I applied good practices like frequent commits and pushing to GitHub. The focus was on functionality, with styling left for later when CSS is introduced.
